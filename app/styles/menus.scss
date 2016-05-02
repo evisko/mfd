@@ -1,0 +1,45 @@
+.nav-tabs li:hover{
+  border-right: 1px solid red;
+}
+
+.nav-tabs li{
+  width:100%;
+}
+
+.nav-tabs{
+  border-bottom: none;
+}
+
+
+.menu-icon{
+  background: none;
+  border: none;
+color: red;
+}
+
+.search-bar{
+  border-bottom:1px solid white;
+}
+
+#menu{
+  list-style-type: none;
+}
+
+.search-bar{
+
+    background: antiquewhite; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, aliceblue , antiquewhite); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, aliceblue , antiquewhite); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, aliceblue , antiquewhite); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, aliceblue , antiquewhite); /* Standard syntax (must be last) */
+}
+
+.search-button{
+  background: red;
+  color: white;
+}
+
+.navbar{
+  margin-bottom: 0px;
+
+}
